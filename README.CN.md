@@ -3,6 +3,12 @@
 
 [English](./README.md)
 
+## 使用方法
+
+```
+wails init -n "Your Project Name" -t https://github.com/tongque0/wails-template-tdesign-js
+```
+
 ## 关于
 
 - 这个项目是 [Wails](https://wails.io/) 的模板。

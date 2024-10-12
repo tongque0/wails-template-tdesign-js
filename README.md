@@ -3,6 +3,12 @@
 
 [中文](./README.CN.md)
 
+## Use
+
+```
+wails init -n "Your Project Name" -t https://github.com/tongque0/wails-template-tdesign-js
+```
+
 ## About
 
 - This project is a template for [Wails](https://wails.io/).
